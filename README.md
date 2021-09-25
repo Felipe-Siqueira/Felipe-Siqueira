@@ -1,7 +1,7 @@
 ### Hey hello!! I'm Felipe Siqueira 👋
 
 - 🔭 I’m currently working on Improve my abilities
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning
 - 😄 Pronouns: he, his.
 
  <div>
